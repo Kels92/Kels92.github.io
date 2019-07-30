@@ -73,6 +73,22 @@
   </url>
   
   <url>
+    <loc>https://kels92.github.io/talk/onlinetools_ehpr/</loc>
+    <lastmod>2019-06-27T12:30:52-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kels92.github.io/talk/</loc>
+    <lastmod>2019-06-27T12:30:52-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kels92.github.io/tags/price-transparency/</loc>
+    <lastmod>2019-06-27T12:30:52-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kels92.github.io/authors/lesley-russell/</loc>
     <lastmod>2019-07-26T16:58:22+10:00</lastmod>
     <priority>0</priority>
@@ -86,6 +102,33 @@
   <url>
     <loc>https://kels92.github.io/post/croakey/</loc>
     <lastmod>2019-07-26T16:58:22+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kels92.github.io/talk/menzies_pricetransparency/</loc>
+    <lastmod>2019-05-08T12:28:43-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kels92.github.io/talk/trialdesign_journalclub/</loc>
+    <lastmod>2019-03-19T12:30:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kels92.github.io/tags/trial-design/</loc>
+    <lastmod>2019-03-19T12:30:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kels92.github.io/talk/crowdfunding_whc/</loc>
+    <lastmod>2019-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kels92.github.io/tags/crowdfunding/</loc>
+    <lastmod>2019-03-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -280,10 +323,6 @@
   <url>
     <loc>https://kels92.github.io/categories/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kels92.github.io/talk/</loc>
   </url>
   
 </urlset>
