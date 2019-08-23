@@ -3,6 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kels92.github.io/</loc>
+    <lastmod>2019-11-14T13:05:33-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kels92.github.io/talk/social_media_ethics/</loc>
+    <lastmod>2019-11-14T13:05:33-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kels92.github.io/talk/</loc>
+    <lastmod>2019-11-14T13:05:33-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kels92.github.io/authors/</loc>
     <lastmod>2019-08-12T13:48:13-04:00</lastmod>
     <priority>0</priority>
@@ -15,12 +31,6 @@
   
   <url>
     <loc>https://kels92.github.io/authors/kelsey-chalmers/</loc>
-    <lastmod>2019-08-12T13:48:13-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kels92.github.io/</loc>
     <lastmod>2019-08-12T13:48:13-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -90,11 +100,6 @@
   
   <url>
     <loc>https://kels92.github.io/talk/onlinetools_ehpr/</loc>
-    <lastmod>2019-06-27T12:30:52-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kels92.github.io/talk/</loc>
     <lastmod>2019-06-27T12:30:52-04:00</lastmod>
   </url>
   
